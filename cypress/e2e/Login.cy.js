@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('Teste técnico Vicio página de login', () => {
   beforeEach(() => {
     cy.visit('/')
   })
